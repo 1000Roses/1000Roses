@@ -42,6 +42,8 @@ import random
 
 
 class Future:
+
+  life = list()
   def __init__(self, **goal_dict):
     self.goal_dict = goal_dict
     self.base = "family"
@@ -60,10 +62,9 @@ class Future:
       the inspiring, the not-so-glamorous moments.
       And thank you through it all
     '''
-    experience = list()
     for each_goal in goal_dict:
         memory = self.try_my_best(each_goal)
-        experience.append(memory)
+        Future.life.append(memory)
  ```
  
 ## Current Works

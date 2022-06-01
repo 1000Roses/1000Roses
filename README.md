@@ -24,6 +24,16 @@ Welcome to my profile, glad when seeing you visit my page
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30' align="left"/>
   <img src = 'https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67' width='30'/>
  
+ ## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1000Roses#version3"/>
+  </a>
+</p>
+
+<h3 align="center">Although scarce star, but i still put it there lol :))</h3>
+ 
  ## My goal 
  ```python
 import random
